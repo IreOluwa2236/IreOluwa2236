@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-3rd year CS student @Wilfred Laurier university <br><br>specializes in <br>- backend/server side programming <br>- data analytics <br>- software engineering <br><br>Always looking to collaborate with teams for related projects  
+2rd year CS student @Wilfred Laurier university <br><br>specializes in <br>- backend/server side programming <br>- data analytics <br>- software engineering <br><br>Always looking to collaborate with teams for related projects  
 
 
 ## 🌐 Socials:
